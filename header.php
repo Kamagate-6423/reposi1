@@ -67,7 +67,7 @@
 					<div class="panel panel-default" style="height:100px">
 						<div class="panel-heading">Contacts</div>
 						<div class="panel-body">
-							0022508877639 / 0022564230411
+							0022553959574 / 0022564230411
 						</div>
 					</div>
 				</div>
